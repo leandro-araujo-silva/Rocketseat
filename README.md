@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_imagens/login-rocket.png" alt="Rocketseat" width="550" height="420">
+  <img src="_imagens/login-rocket.png" alt="Rocketseat" width="750" height="420">
 </div>
 
 ---
